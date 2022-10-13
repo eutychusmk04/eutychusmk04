@@ -1,5 +1,5 @@
-- 👋 I’m Mwabi.Mk. 
-- 👀 Interested in Database Engineering.
+- I’m Mwabi.Mk. 
+- Interested in Database Engineering.
 - 🌱 learning Databases and management systems.
 - 👊🏾 open to collaborate on practical application of database system management  
 - 📫 mcmkandawire04j@gmail.com
